@@ -32,6 +32,10 @@ A full-featured **YouTube Clone** built with **React**, featuring:
 - Fully responsive sidebar with sections like Home, Shorts, Subscriptions, etc.
 
 ---
+![image](https://github.com/user-attachments/assets/55992021-455b-4c47-a17e-7c1040ba1e66)
+
+![image](https://github.com/user-attachments/assets/be2437f2-de75-4845-ae3f-d750deb35942)
+
 
 ## 🛠 Tech Stack
 
